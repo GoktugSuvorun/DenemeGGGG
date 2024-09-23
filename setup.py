@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="DenemeGGGG",                    # The name of your package
-    version="0.1.0",                  # Version of your package
+    version="0.1.1",                  # Version of your package
     author="Göktuğ",                  # Your name
     author_email="goktugonal76@gmail.com", # Your email address
     description="A simple package to greet users",  # A short description
